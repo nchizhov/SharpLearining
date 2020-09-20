@@ -1,0 +1,6 @@
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.pdb
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.exe
+P:\C#\Chapter2\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\obj\Debug\SimpleCSharpConsoleApp.pdb

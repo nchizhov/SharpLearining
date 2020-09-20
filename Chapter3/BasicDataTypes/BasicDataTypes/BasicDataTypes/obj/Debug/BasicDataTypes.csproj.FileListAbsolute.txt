@@ -1,0 +1,6 @@
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojAssemblyReference.cache
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+P:\C#\Chapter3\BasicDataTypes\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

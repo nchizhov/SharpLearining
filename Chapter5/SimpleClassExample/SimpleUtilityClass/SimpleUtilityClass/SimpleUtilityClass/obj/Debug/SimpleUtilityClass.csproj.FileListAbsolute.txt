@@ -1,0 +1,7 @@
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe.config
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.exe
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\bin\Debug\SimpleUtilityClass.pdb
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csprojAssemblyReference.cache
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.exe
+P:\C#\Chapter5\SimpleClassExample\SimpleUtilityClass\SimpleUtilityClass\SimpleUtilityClass\obj\Debug\SimpleUtilityClass.pdb

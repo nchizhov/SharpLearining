@@ -1,0 +1,6 @@
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe.config
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.exe
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\bin\Debug\BasicInheritance.pdb
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.csproj.CoreCompileInputs.cache
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.exe
+P:\C#\Chapter6\BasicInheritance\BasicInheritance\BasicInheritance\obj\Debug\BasicInheritance.pdb

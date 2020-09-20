@@ -1,0 +1,7 @@
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojAssemblyReference.cache
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+P:\C#\Chapter5\SimpleClassExample\StaticDataAndMembers\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb

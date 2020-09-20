@@ -1,0 +1,7 @@
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.pdb
+P:\C#\Chapter5\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.csprojAssemblyReference.cache

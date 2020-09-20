@@ -1,0 +1,7 @@
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe.config
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.exe
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\bin\Debug\FunWithEnums.pdb
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csprojAssemblyReference.cache
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.csproj.CoreCompileInputs.cache
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.exe
+P:\C#\Chapter4\FunWithEnums\FunWithEnums\FunWithEnums\obj\Debug\FunWithEnums.pdb

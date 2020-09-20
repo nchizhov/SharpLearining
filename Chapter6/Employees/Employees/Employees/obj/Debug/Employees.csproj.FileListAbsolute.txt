@@ -1,0 +1,7 @@
+P:\C#\Chapter6\Employees\Employees\Employees\bin\Debug\Employees.exe.config
+P:\C#\Chapter6\Employees\Employees\Employees\bin\Debug\Employees.exe
+P:\C#\Chapter6\Employees\Employees\Employees\bin\Debug\Employees.pdb
+P:\C#\Chapter6\Employees\Employees\Employees\obj\Debug\Employees.csprojAssemblyReference.cache
+P:\C#\Chapter6\Employees\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+P:\C#\Chapter6\Employees\Employees\Employees\obj\Debug\Employees.exe
+P:\C#\Chapter6\Employees\Employees\Employees\obj\Debug\Employees.pdb

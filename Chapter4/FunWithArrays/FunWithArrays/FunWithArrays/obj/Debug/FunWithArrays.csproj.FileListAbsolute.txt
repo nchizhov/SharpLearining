@@ -1,0 +1,7 @@
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.pdb
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csprojAssemblyReference.cache
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csproj.CoreCompileInputs.cache
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.exe
+P:\C#\Chapter4\FunWithArrays\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.pdb

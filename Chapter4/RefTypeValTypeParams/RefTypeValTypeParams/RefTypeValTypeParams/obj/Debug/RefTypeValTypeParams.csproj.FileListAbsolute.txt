@@ -1,0 +1,7 @@
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe.config
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csprojAssemblyReference.cache
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csproj.CoreCompileInputs.cache
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
+P:\C#\Chapter4\RefTypeValTypeParams\RefTypeValTypeParams\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb

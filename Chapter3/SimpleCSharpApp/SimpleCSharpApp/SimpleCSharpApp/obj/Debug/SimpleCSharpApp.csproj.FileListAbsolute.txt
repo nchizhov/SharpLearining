@@ -1,0 +1,6 @@
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojAssemblyReference.cache
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+P:\C#\Chapter3\SimpleCSharpApp\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

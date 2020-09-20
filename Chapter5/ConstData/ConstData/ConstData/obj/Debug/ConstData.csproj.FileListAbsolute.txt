@@ -1,0 +1,7 @@
+P:\C#\Chapter5\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe.config
+P:\C#\Chapter5\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe
+P:\C#\Chapter5\ConstData\ConstData\ConstData\bin\Debug\ConstData.pdb
+P:\C#\Chapter5\ConstData\ConstData\ConstData\obj\Debug\ConstData.csprojAssemblyReference.cache
+P:\C#\Chapter5\ConstData\ConstData\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\ConstData\ConstData\ConstData\obj\Debug\ConstData.exe
+P:\C#\Chapter5\ConstData\ConstData\ConstData\obj\Debug\ConstData.pdb

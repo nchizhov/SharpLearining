@@ -1,0 +1,7 @@
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe.config
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.pdb
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csprojAssemblyReference.cache
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csproj.CoreCompileInputs.cache
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.exe
+P:\C#\Chapter3\IterationsAndDecisions\IterationsAndDecisions\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.pdb

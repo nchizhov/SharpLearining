@@ -1,0 +1,7 @@
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\bin\Debug\FunTuples.exe.config
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\bin\Debug\FunTuples.exe
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\bin\Debug\FunTuples.pdb
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\obj\Debug\FunTuples.csprojAssemblyReference.cache
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\obj\Debug\FunTuples.csproj.CoreCompileInputs.cache
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\obj\Debug\FunTuples.exe
+P:\C#\Chapter4\FunTuples\FunTuples\FunTuples\obj\Debug\FunTuples.pdb

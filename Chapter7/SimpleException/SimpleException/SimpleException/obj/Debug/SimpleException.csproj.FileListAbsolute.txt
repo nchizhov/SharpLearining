@@ -1,0 +1,7 @@
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\obj\Debug\SimpleException.csprojAssemblyReference.cache
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+P:\C#\Chapter7\SimpleException\SimpleException\SimpleException\obj\Debug\SimpleException.pdb

@@ -1,0 +1,7 @@
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.exe
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\bin\Debug\FunWithMethods.pdb
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csprojAssemblyReference.cache
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.exe
+P:\C#\Chapter4\FunWithMethods\FunWithMethods\FunWithMethods\obj\Debug\FunWithMethods.pdb

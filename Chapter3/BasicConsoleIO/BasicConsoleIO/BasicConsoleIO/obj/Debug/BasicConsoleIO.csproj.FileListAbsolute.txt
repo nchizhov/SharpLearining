@@ -1,0 +1,6 @@
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+P:\C#\Chapter3\BasicConsoleIO\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

@@ -1,0 +1,6 @@
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\bin\Debug\Objectlmtializers.exe.config
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\bin\Debug\Objectlmtializers.exe
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\bin\Debug\Objectlmtializers.pdb
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\obj\Debug\Objectlmtializers.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\obj\Debug\Objectlmtializers.exe
+P:\C#\Chapter5\Objectlmtializers\Objectlmtializers\Objectlmtializers\obj\Debug\Objectlmtializers.pdb

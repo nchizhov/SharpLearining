@@ -1,0 +1,7 @@
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\bin\Debug\TypeConversations.exe.config
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\bin\Debug\TypeConversations.exe
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\bin\Debug\TypeConversations.pdb
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\obj\Debug\TypeConversations.csprojAssemblyReference.cache
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\obj\Debug\TypeConversations.csproj.CoreCompileInputs.cache
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\obj\Debug\TypeConversations.exe
+P:\C#\Chapter3\TypeConversations\TypeConversations\TypeConversations\obj\Debug\TypeConversations.pdb

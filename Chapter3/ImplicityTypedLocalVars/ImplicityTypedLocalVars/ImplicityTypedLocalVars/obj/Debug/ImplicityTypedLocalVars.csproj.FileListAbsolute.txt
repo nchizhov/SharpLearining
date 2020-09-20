@@ -1,0 +1,7 @@
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.exe.config
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.exe
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\bin\Debug\ImplicityTypedLocalVars.pdb
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.csprojAssemblyReference.cache
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.csproj.CoreCompileInputs.cache
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.exe
+P:\C#\Chapter3\ImplicityTypedLocalVars\ImplicityTypedLocalVars\ImplicityTypedLocalVars\obj\Debug\ImplicityTypedLocalVars.pdb

@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EmployeeApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("***** Fun with Encapsulation *****");
+            Employee emp = new Employee("Marvin", 456, 30000);
+            emp.GiveBonus(1000);
+            emp.DisplayStats();
+
+            emp.Name = "Marv";
+            Console.WriteLine("Employee is named: {0}", emp.Name);
+
+            Employee emp2 = new Employee();
+            emp2.Name = "Xena the warrior princess";
+
+            Employee joe = new Employee();
+            joe.Age++;
+            joe.DisplayStats();
+
+            Console.ReadLine();
+        }
+    }
+}

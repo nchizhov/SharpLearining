@@ -1,0 +1,7 @@
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+P:\C#\Chapter5\SimpleClassExample\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
