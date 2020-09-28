@@ -1,0 +1,7 @@
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe.config
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\bin\Debug\ComparableCar.exe
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\bin\Debug\ComparableCar.pdb
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\obj\Debug\ComparableCar.csprojAssemblyReference.cache
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\obj\Debug\ComparableCar.exe
+P:\C#\Chapter8\ComparableCar\ComparableCar\ComparableCar\obj\Debug\ComparableCar.pdb

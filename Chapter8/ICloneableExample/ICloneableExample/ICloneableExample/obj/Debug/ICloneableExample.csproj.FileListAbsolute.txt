@@ -1,0 +1,7 @@
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe.config
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.exe
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\bin\Debug\ICloneableExample.pdb
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csprojAssemblyReference.cache
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.exe
+P:\C#\Chapter8\ICloneableExample\ICloneableExample\ICloneableExample\obj\Debug\ICloneableExample.pdb

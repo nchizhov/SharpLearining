@@ -1,0 +1,7 @@
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojAssemblyReference.cache
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+P:\C#\Chapter8\InterfaceNameClash\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

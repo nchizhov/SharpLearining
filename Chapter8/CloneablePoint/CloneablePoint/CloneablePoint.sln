@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneablePoint", "CloneablePoint\CloneablePoint.csproj", "{CE31C092-D346-42A8-9EFC-0BDA52D72DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE31C092-D346-42A8-9EFC-0BDA52D72DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE31C092-D346-42A8-9EFC-0BDA52D72DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE31C092-D346-42A8-9EFC-0BDA52D72DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE31C092-D346-42A8-9EFC-0BDA52D72DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABB69D0-AF97-427F-94AC-2B558DE47389}
+	EndGlobalSection
+EndGlobal

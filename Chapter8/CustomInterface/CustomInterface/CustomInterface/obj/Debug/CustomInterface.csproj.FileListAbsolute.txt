@@ -1,0 +1,7 @@
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+P:\C#\Chapter8\CustomInterface\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

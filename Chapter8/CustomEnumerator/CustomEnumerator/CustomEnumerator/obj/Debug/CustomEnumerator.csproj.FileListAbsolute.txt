@@ -1,0 +1,7 @@
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csprojAssemblyReference.cache
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+P:\C#\Chapter8\CustomEnumerator\CustomEnumerator\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

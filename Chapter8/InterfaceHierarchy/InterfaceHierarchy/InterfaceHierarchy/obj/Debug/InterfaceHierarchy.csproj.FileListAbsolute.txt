@@ -1,0 +1,6 @@
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe.config
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.pdb
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.exe
+P:\C#\Chapter8\InterfaceHierarchy\InterfaceHierarchy\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.pdb

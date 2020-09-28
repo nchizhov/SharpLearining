@@ -1,0 +1,7 @@
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.exe
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\bin\Debug\CloneablePoint.pdb
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csprojAssemblyReference.cache
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.exe
+P:\C#\Chapter8\CloneablePoint\CloneablePoint\CloneablePoint\obj\Debug\CloneablePoint.pdb
