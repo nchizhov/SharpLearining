@@ -1,0 +1,7 @@
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojAssemblyReference.cache
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csproj.CoreCompileInputs.cache
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+P:\C#\Chapter9\CustomGenericMethods\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

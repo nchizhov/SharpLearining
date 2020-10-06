@@ -1,0 +1,7 @@
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojAssemblyReference.cache
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csproj.CoreCompileInputs.cache
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+P:\C#\Chapter9\GenericPoint\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

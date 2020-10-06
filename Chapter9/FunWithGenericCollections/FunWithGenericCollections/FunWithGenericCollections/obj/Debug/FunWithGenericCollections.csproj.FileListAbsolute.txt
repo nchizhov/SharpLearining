@@ -1,0 +1,7 @@
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojAssemblyReference.cache
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+P:\C#\Chapter9\FunWithGenericCollections\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

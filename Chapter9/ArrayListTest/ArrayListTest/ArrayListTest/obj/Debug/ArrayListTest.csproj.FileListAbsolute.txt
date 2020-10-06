@@ -1,0 +1,6 @@
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\bin\Debug\ArrayListTest.exe.config
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\bin\Debug\ArrayListTest.exe
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\bin\Debug\ArrayListTest.pdb
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\obj\Debug\ArrayListTest.csproj.CoreCompileInputs.cache
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\obj\Debug\ArrayListTest.exe
+P:\C#\Chapter9\ArrayListTest\ArrayListTest\ArrayListTest\obj\Debug\ArrayListTest.pdb
