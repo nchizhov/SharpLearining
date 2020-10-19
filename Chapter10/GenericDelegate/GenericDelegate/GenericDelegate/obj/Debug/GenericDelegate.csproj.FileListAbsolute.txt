@@ -1,0 +1,7 @@
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+P:\C#\Chapter10\GenericDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

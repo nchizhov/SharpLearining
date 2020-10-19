@@ -1,0 +1,7 @@
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+P:\C#\Chapter10\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

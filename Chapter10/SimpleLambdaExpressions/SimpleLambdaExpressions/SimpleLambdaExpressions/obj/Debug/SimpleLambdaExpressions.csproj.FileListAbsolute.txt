@@ -1,0 +1,7 @@
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb
+P:\C#\Chapter10\SimpleLambdaExpressions\SimpleLambdaExpressions\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarEventsWithLambdas", "CarEventsWithLambdas\CarEventsWithLambdas.csproj", "{B0B35982-5FB1-4D8C-B6EB-03EA1E8452D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B35982-5FB1-4D8C-B6EB-03EA1E8452D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B35982-5FB1-4D8C-B6EB-03EA1E8452D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B35982-5FB1-4D8C-B6EB-03EA1E8452D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B35982-5FB1-4D8C-B6EB-03EA1E8452D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76227995-828A-4DCF-BE8C-B62EFA25F88C}
+	EndGlobalSection
+EndGlobal

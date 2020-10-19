@@ -1,0 +1,6 @@
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+P:\C#\Chapter10\ActionAndFuncDelegates\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

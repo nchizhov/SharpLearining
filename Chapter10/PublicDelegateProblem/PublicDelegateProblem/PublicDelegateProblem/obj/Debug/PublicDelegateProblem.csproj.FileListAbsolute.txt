@@ -1,0 +1,6 @@
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe.config
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.exe
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\bin\Debug\PublicDelegateProblem.pdb
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.exe
+P:\C#\Chapter10\PublicDelegateProblem\PublicDelegateProblem\PublicDelegateProblem\obj\Debug\PublicDelegateProblem.pdb

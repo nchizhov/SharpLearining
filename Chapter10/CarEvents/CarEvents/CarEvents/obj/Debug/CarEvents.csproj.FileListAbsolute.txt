@@ -1,0 +1,7 @@
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\bin\Debug\CarEvents.exe.config
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\bin\Debug\CarEvents.exe
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\bin\Debug\CarEvents.pdb
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\obj\Debug\CarEvents.csprojAssemblyReference.cache
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\obj\Debug\CarEvents.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\obj\Debug\CarEvents.exe
+P:\C#\Chapter10\CarEvents\CarEvents\CarEvents\obj\Debug\CarEvents.pdb

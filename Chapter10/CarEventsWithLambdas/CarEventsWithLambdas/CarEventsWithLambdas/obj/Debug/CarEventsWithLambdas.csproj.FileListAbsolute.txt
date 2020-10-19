@@ -1,0 +1,6 @@
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe.config
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.exe
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\bin\Debug\CarEventsWithLambdas.pdb
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.csproj.CoreCompileInputs.cache
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.exe
+P:\C#\Chapter10\CarEventsWithLambdas\CarEventsWithLambdas\CarEventsWithLambdas\obj\Debug\CarEventsWithLambdas.pdb

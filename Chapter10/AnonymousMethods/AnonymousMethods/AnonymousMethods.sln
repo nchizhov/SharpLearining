@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethods", "AnonymousMethods\AnonymousMethods.csproj", "{B6CFDC6B-8233-4061-882B-C60CB8DC40FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CFDC6B-8233-4061-882B-C60CB8DC40FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CFDC6B-8233-4061-882B-C60CB8DC40FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CFDC6B-8233-4061-882B-C60CB8DC40FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CFDC6B-8233-4061-882B-C60CB8DC40FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3580B135-B83F-4B5F-865F-A220CE9ABA4A}
+	EndGlobalSection
+EndGlobal
