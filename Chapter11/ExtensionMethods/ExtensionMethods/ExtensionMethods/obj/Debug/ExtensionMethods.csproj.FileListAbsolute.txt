@@ -1,0 +1,7 @@
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+P:\C#\Chapter11\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

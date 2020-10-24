@@ -1,0 +1,6 @@
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.csproj.CoreCompileInputs.cache
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+P:\C#\Chapter11\InterfaceExtensions\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

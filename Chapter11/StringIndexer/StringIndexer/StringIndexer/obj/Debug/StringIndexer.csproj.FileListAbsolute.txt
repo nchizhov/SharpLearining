@@ -1,0 +1,6 @@
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\bin\Debug\StringIndexer.exe.config
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\bin\Debug\StringIndexer.exe
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\bin\Debug\StringIndexer.pdb
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\obj\Debug\StringIndexer.csproj.CoreCompileInputs.cache
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\obj\Debug\StringIndexer.exe
+P:\C#\Chapter11\StringIndexer\StringIndexer\StringIndexer\obj\Debug\StringIndexer.pdb

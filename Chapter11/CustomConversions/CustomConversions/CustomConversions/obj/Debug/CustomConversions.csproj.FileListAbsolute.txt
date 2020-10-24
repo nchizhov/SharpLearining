@@ -1,0 +1,7 @@
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe.config
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\bin\Debug\CustomConversions.pdb
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\obj\Debug\CustomConversions.csprojAssemblyReference.cache
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\obj\Debug\CustomConversions.csproj.CoreCompileInputs.cache
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\obj\Debug\CustomConversions.exe
+P:\C#\Chapter11\CustomConversions\CustomConversions\CustomConversions\obj\Debug\CustomConversions.pdb

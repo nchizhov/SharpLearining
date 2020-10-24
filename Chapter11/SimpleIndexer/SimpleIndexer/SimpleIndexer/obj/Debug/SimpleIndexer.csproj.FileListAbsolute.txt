@@ -1,0 +1,7 @@
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe.config
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csprojAssemblyReference.cache
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csproj.CoreCompileInputs.cache
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+P:\C#\Chapter11\SimpleIndexer\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.pdb
