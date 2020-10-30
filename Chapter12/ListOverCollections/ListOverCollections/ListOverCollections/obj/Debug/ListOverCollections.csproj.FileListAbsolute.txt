@@ -1,0 +1,6 @@
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\bin\Debug\ListOverCollections.exe.config
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\bin\Debug\ListOverCollections.exe
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\bin\Debug\ListOverCollections.pdb
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\obj\Debug\ListOverCollections.csproj.CoreCompileInputs.cache
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\obj\Debug\ListOverCollections.exe
+P:\C#\Chapter12\ListOverCollections\ListOverCollections\ListOverCollections\obj\Debug\ListOverCollections.pdb

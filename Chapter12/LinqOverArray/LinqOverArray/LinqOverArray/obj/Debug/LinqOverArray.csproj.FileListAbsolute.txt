@@ -1,0 +1,7 @@
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.pdb
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csprojAssemblyReference.cache
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.exe
+P:\C#\Chapter12\LinqOverArray\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.pdb

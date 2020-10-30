@@ -1,0 +1,7 @@
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.pdb
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csprojAssemblyReference.cache
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csproj.CoreCompileInputs.cache
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.exe
+P:\C#\Chapter12\LinqRetValues\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.pdb

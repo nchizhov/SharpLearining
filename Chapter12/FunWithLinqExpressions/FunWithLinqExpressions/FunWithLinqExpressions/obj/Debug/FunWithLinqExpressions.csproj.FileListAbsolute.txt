@@ -1,0 +1,7 @@
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csprojAssemblyReference.cache
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+P:\C#\Chapter12\FunWithLinqExpressions\FunWithLinqExpressions\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb
