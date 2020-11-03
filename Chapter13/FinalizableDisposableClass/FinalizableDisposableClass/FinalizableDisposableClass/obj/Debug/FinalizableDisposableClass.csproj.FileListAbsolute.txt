@@ -1,0 +1,7 @@
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe.config
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.pdb
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csprojAssemblyReference.cache
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.csproj.CoreCompileInputs.cache
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.exe
+P:\C#\Chapter13\FinalizableDisposableClass\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.pdb

@@ -1,0 +1,7 @@
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojAssemblyReference.cache
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csproj.CoreCompileInputs.cache
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+P:\C#\Chapter13\SimpleGC\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb

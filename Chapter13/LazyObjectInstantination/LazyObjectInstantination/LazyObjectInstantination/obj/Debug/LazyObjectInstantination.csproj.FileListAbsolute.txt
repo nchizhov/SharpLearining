@@ -1,0 +1,7 @@
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\bin\Debug\LazyObjectInstantination.exe.config
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\bin\Debug\LazyObjectInstantination.exe
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\bin\Debug\LazyObjectInstantination.pdb
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\obj\Debug\LazyObjectInstantination.csprojAssemblyReference.cache
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\obj\Debug\LazyObjectInstantination.csproj.CoreCompileInputs.cache
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\obj\Debug\LazyObjectInstantination.exe
+P:\C#\Chapter13\LazyObjectInstantination\LazyObjectInstantination\LazyObjectInstantination\obj\Debug\LazyObjectInstantination.pdb

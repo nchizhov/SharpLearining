@@ -1,0 +1,6 @@
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.csproj.CoreCompileInputs.cache
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+P:\C#\Chapter13\SimpleDispose\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb
