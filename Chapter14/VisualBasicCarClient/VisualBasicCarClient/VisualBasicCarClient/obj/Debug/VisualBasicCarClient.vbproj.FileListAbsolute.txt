@@ -1,0 +1,14 @@
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe.config
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.exe
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.pdb
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\VisualBasicCarClient.xml
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.dll
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\bin\Debug\CarLibrary.pdb
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbprojAssemblyReference.cache
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.Resources.resources
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.GenerateResource.cache
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CoreCompileInputs.cache
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.vbproj.CopyComplete
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.exe
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.xml
+P:\C#\Chapter14\VisualBasicCarClient\VisualBasicCarClient\VisualBasicCarClient\obj\Debug\VisualBasicCarClient.pdb

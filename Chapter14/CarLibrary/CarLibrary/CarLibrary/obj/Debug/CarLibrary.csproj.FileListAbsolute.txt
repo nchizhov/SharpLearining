@@ -1,0 +1,5 @@
+P:\C#\Chapter14\CarLibrary\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+P:\C#\Chapter14\CarLibrary\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+P:\C#\Chapter14\CarLibrary\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+P:\C#\Chapter14\CarLibrary\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+P:\C#\Chapter14\CarLibrary\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

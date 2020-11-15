@@ -1,0 +1,7 @@
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe.config
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.exe
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\bin\Debug\AppConfigReaderApp.pdb
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.csprojAssemblyReference.cache
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.csproj.CoreCompileInputs.cache
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.exe
+P:\C#\Chapter14\AppConfigReaderApp\AppConfigReaderApp\AppConfigReaderApp\obj\Debug\AppConfigReaderApp.pdb

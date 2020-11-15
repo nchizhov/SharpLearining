@@ -1,0 +1,6 @@
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe.config
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.pdb
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.csproj.CoreCompileInputs.cache
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.exe
+P:\C#\Chapter14\CodeBaseClient\CodeBaseClient\CodeBaseClient\obj\Debug\CodeBaseClient.pdb
