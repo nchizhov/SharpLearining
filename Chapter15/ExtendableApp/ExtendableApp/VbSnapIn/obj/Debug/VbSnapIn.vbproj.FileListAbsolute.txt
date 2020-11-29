@@ -1,0 +1,13 @@
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.pdb
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\bin\Debug\VbSnapIn.xml
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\bin\Debug\CommonSnappableTypes.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\bin\Debug\CommonSnappableTypes.pdb
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbprojAssemblyReference.cache
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.Resources.resources
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.GenerateResource.cache
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.CoreCompileInputs.cache
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.vbproj.CopyComplete
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.xml
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\VbSnapIn\obj\Debug\VbSnapIn.pdb

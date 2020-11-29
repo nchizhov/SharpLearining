@@ -1,0 +1,9 @@
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\bin\Debug\CSharpSnapIn.pdb
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\bin\Debug\CommonSnappableTypes.pdb
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csprojAssemblyReference.cache
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CoreCompileInputs.cache
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.csproj.CopyComplete
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.dll
+P:\C#\Chapter15\ExtendableApp\ExtendableApp\CSharpSnapIn\obj\Debug\CSharpSnapIn.pdb

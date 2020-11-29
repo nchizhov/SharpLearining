@@ -1,0 +1,7 @@
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe.config
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.csprojAssemblyReference.cache
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.csproj.CoreCompileInputs.cache
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.exe
+P:\C#\Chapter15\MyTypeViewer\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.pdb

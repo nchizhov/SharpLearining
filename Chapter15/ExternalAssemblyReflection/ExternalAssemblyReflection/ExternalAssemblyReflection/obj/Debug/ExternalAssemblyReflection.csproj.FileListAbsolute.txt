@@ -1,0 +1,7 @@
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\bin\Debug\ExternalAssemblyReflection.exe.config
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\bin\Debug\ExternalAssemblyReflection.exe
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\bin\Debug\ExternalAssemblyReflection.pdb
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\obj\Debug\ExternalAssemblyReflection.csprojAssemblyReference.cache
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\obj\Debug\ExternalAssemblyReflection.csproj.CoreCompileInputs.cache
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\obj\Debug\ExternalAssemblyReflection.exe
+P:\C#\Chapter15\ExternalAssemblyReflection\ExternalAssemblyReflection\ExternalAssemblyReflection\obj\Debug\ExternalAssemblyReflection.pdb

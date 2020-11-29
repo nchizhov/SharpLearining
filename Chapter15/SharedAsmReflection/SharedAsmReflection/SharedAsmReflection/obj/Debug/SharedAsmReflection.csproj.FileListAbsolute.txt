@@ -1,0 +1,7 @@
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\bin\Debug\SharedAsmReflection.exe.config
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\bin\Debug\SharedAsmReflection.exe
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\bin\Debug\SharedAsmReflection.pdb
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\obj\Debug\SharedAsmReflection.csprojAssemblyReference.cache
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\obj\Debug\SharedAsmReflection.csproj.CoreCompileInputs.cache
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\obj\Debug\SharedAsmReflection.exe
+P:\C#\Chapter15\SharedAsmReflection\SharedAsmReflection\SharedAsmReflection\obj\Debug\SharedAsmReflection.pdb

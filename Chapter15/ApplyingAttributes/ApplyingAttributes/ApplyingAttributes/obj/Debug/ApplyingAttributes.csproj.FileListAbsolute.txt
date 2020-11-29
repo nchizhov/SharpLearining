@@ -1,0 +1,7 @@
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe.config
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.pdb
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.csprojAssemblyReference.cache
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.csproj.CoreCompileInputs.cache
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.exe
+P:\C#\Chapter15\ApplyingAttributes\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.pdb
