@@ -1,0 +1,9 @@
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe.config
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.pdb
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csprojAssemblyReference.cache
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\Interop.AXVLC.dll
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.ResolveComReference.cache
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.CoreCompileInputs.cache
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.exe
+P:\C#\Chapter16\ExportDataToOfficeApp\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.pdb
