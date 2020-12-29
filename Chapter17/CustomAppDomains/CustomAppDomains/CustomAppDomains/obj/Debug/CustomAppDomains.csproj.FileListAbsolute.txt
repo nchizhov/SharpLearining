@@ -1,0 +1,7 @@
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe.config
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.pdb
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.csprojAssemblyReference.cache
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.csproj.CoreCompileInputs.cache
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.exe
+P:\C#\Chapter17\CustomAppDomains\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.pdb

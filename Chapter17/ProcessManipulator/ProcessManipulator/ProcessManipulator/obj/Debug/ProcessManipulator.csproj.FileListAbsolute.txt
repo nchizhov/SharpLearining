@@ -1,0 +1,7 @@
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojAssemblyReference.cache
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.CoreCompileInputs.cache
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+P:\C#\Chapter17\ProcessManipulator\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

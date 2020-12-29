@@ -1,0 +1,7 @@
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojAssemblyReference.cache
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+P:\C#\Chapter17\DefaultAppDomainApp\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb

@@ -1,0 +1,7 @@
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csprojAssemblyReference.cache
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+P:\C#\Chapter17\ObjectContextApp\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.pdb
